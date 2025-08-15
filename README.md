@@ -1,4 +1,6 @@
-## Hi there 👋
+## BogusDB
+
+An open-source initiative to identify, flag, and archive false or misleading data from across the internet and real-world sources. Designed for integration with browser extensions, fact-check APIs, and community-driven validation systems, BogusDB empowers users, journalists, and researchers to fight misinformation at scale.
 
 <!--
 **bogusdbadmin/bogusdbadmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
